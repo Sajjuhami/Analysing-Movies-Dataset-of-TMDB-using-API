@@ -1,1 +1,1 @@
-# Analysing-Movies-Dataset-usnig-TMDB-API
+# Analysing-Movies-Dataset-using-TMDB-API
